@@ -1,0 +1,2 @@
+C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/build/CMakeFiles/edit_cache.dir
+C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/build/CMakeFiles/rebuild_cache.dir
