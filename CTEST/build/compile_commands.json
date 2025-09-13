@@ -1,8 +1,8 @@
 [
 {
   "directory": "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/build",
-  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Testing.dir\\main.cpp.obj -c \"C:\\Users\\emrah\\OneDrive\\Desktop\\Photonic Studium\\Selbststudium\\CMake_tutorial\\CTEST\\main.cpp\"",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\TestingCTest.dir\\main.cpp.obj -c \"C:\\Users\\emrah\\OneDrive\\Desktop\\Photonic Studium\\Selbststudium\\CMake_tutorial\\CTEST\\main.cpp\"",
   "file": "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/main.cpp",
-  "output": "CMakeFiles/Testing.dir/main.cpp.obj"
+  "output": "CMakeFiles/TestingCTest.dir/main.cpp.obj"
 }
 ]
