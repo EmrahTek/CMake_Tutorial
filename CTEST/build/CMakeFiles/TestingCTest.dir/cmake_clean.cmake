@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
+  "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.exe"
+  "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.exe.manifest"
+  "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.pdb"
   "CMakeFiles/TestingCTest.dir/main.cpp.obj"
   "CMakeFiles/TestingCTest.dir/main.cpp.obj.d"
-  "TestingCTest.exe"
-  "TestingCTest.exe.manifest"
-  "TestingCTest.pdb"
   "libTestingCTest.dll.a"
 )
 

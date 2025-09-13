@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "TestingCTest.exe"
+			"path" : "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.exe"
 		},
 		{
-			"path" : "TestingCTest.pdb"
+			"path" : "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 7,
+				"line" : 8,
 				"parent" : 0
 			}
 		]
