@@ -25,11 +25,40 @@
 	ProcessorClockFrequency="2300"
 	>
 	<Testing>
-		<StartDateTime>Sep 13 19:26 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</StartDateTime>
-		<StartTestTime>1757784403</StartTestTime>
-		<TestList/>
-		<EndDateTime>Sep 13 19:26 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</EndDateTime>
-		<EndTestTime>1757784403</EndTestTime>
+		<StartDateTime>Sep 13 19:31 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</StartDateTime>
+		<StartTestTime>1757784684</StartTestTime>
+		<TestList>
+			<Test>./Test_0,</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>Test_0,</Name>
+			<Path>.</Path>
+			<FullName>./Test_0,</FullName>
+			<FullCommandLine>"C:\Users\emrah\OneDrive\Desktop\Photonic Studium\Selbststudium\CMake_tutorial\CTEST\bin\TestingCTest.exe" "0"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0134541</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\emrah\OneDrive\Desktop\Photonic Studium\Selbststudium\CMake_tutorial\CTEST\bin\TestingCTest.exe" "0"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>0
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Sep 13 19:31 Mitteleurop[NON-UTF-8-BYTE-0xE4]ische Sommerzeit</EndDateTime>
+		<EndTestTime>1757784684</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

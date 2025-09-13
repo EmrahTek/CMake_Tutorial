@@ -1,3 +1,19 @@
-Start testing: Sep 13 19:26 Mitteleuropäische Sommerzeit
+Start testing: Sep 13 19:31 Mitteleuropäische Sommerzeit
 ----------------------------------------------------------
-End testing: Sep 13 19:26 Mitteleuropäische Sommerzeit
+1/1 Testing: Test_0,
+1/1 Test: Test_0,
+Command: "C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/bin/TestingCTest.exe" "0"
+Directory: C:/Users/emrah/OneDrive/Desktop/Photonic Studium/Selbststudium/CMake_tutorial/CTEST/build
+"Test_0," start time: Sep 13 19:31 Mitteleuropäische Sommerzeit
+Output:
+----------------------------------------------------------
+0
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Test_0," end time: Sep 13 19:31 Mitteleuropäische Sommerzeit
+"Test_0," time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 19:31 Mitteleuropäische Sommerzeit
